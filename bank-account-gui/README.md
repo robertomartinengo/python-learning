@@ -25,8 +25,8 @@ Developed as a high-school classroom project (**April 2026**).
 ### 2. Inserimento Dati / Accesso Conto
 ![Accesso Conto](Screenshot2.png)
 
-### 3. Operazione di Deposito / Prelievo
+### 3. Operazione di Deposito
 ![Operazione Conto](Screenshot3.png)
 
-### 4. Saldo Aggiornato
+### 4. Operazione di Prelievo
 ![Saldo Finale](Screenshot4.png)
