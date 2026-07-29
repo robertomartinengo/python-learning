@@ -1,18 +1,18 @@
-# To-Do List Application (GUI)
+# 📋 To-Do List Application (GUI)
 
-A desktop task management application built with Python and Tkinter. Developed as a high-school end-of-year group project (Spring 2026), achieving top marks (10/10).
+A desktop task management GUI built with Python and Tkinter. 
+Developed as a high-school end-of-year **group project** (**May 2026**), achieving top marks (**10/10**). I acted as the technical lead for the team, leading the core software implementation.
 
 ## Features
-* **Task Management:** Add, complete, and delete tasks dynamically.
-* **Interactive UI:** Clean graphical interface built with Tkinter for intuition and ease of use.
-* **State Persistence / Logic:** Efficient handling of task lists and state updates.
+* **Task Management:** Add, complete, and track tasks with custom titles, times, frequencies, and descriptions.
+* **Priority Handling:** Sort tasks dynamically by priority (High, Medium, Low) using custom color badges.
+* **Dynamic UI Updates:** Completed tasks are visually struck-through and disabled using Tkinter state hooks.
+* **Layout Re-rendering:** Custom layout sorting powered by `pack_forget()` and array restructuring.
 
-## Technical Highlights
-* Designed layout and event listeners using Python's `tkinter` library.
-* Structured data flow for managing active and completed tasks.
-* Collaborative project where I led the core software architecture and implementation.
+## Project Structure
+* `to-do list.py`: Complete application containing the main Tkinter window (`Finestra`), custom widgets, and task ordering logic.
 
 ## Technologies Used
 * **Language:** Python 3
-* **GUI Framework:** Tkinter
-* **Version Control:** Git & GitHub
+* **GUI Framework:** Tkinter (including `ttk.Combobox`)
+* **Concepts:** CRUD operations, Dynamic UI Layouts, State Management
