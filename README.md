@@ -30,3 +30,8 @@ Upcoming algorithms and scripts focused on algorithmic problem solving, data pro
 * **GUI Framework:** Tkinter (including `ttk`)
 * **IDE:** Cursor / VS Code
 * **Version Control:** Git & GitHub
+
+## Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
