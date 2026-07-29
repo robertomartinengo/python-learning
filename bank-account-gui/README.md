@@ -16,3 +16,17 @@ Developed as a high-school classroom project (**April 2026**).
 * **Language:** Python 3
 * **GUI Framework:** Tkinter
 * **Design Pattern:** Object-Oriented Programming (OOP)
+
+## Demo / Screenshot
+
+### 1. Avvio dell'Applicazione
+![Avvio App](Screenshot1.png)
+
+### 2. Inserimento Dati / Accesso Conto
+![Accesso Conto](Screenshot2.png)
+
+### 3. Operazione di Deposito / Prelievo
+![Operazione Conto](Screenshot3.png)
+
+### 4. Saldo Aggiornato
+![Saldo Finale](Screenshot4.png)
