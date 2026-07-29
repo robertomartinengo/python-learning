@@ -19,11 +19,11 @@ Developed as a high-school end-of-year **group project** (**May 2026**), achievi
 
 ## Demo / Screenshot
 
-### 1. Aggiunta dei Task
+### 1. Avvio app
 ![Aggiunta Task](Screenshot1.png)
 
-### 2. Gestione della Lista
+### 2. Esempi di task
 ![Lista Task](Screenshot2.png)
 
-### 3. Rimozione di un Task
+### 3. Completamento e riordino delle task
 ![Rimozione Task](Screenshot3.png)
