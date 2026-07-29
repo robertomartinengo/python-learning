@@ -16,3 +16,14 @@ Developed as a high-school end-of-year **group project** (**May 2026**), achievi
 * **Language:** Python 3
 * **GUI Framework:** Tkinter (including `ttk.Combobox`)
 * **Concepts:** CRUD operations, Dynamic UI Layouts, State Management
+
+## Demo / Screenshot
+
+### 1. Aggiunta dei Task
+![Aggiunta Task](Screenshot1.png)
+
+### 2. Gestione della Lista
+![Lista Task](Screenshot2.png)
+
+### 3. Rimozione di un Task
+![Rimozione Task](Screenshot3.png)
