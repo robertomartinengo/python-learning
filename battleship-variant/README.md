@@ -15,3 +15,11 @@ Developed as a high-school end-of-year **group project** (**May 2025**), achievi
 ## Technologies Used
 * **Language:** Python 3
 * **Core Concepts:** 2D Matrices/Arrays, Control Flow (`while`/`for`), Functions, Input Validation
+
+## Gameplay / Screenshot
+
+### 1. Avvio e Impostazione Griglia
+![Avvio Gioco](Screen1.png)
+
+### 2. Partita in Corso e Fine Gioco
+![Partita in corso](Screen2.png)
