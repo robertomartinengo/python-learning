@@ -22,9 +22,13 @@ A modular Command-Line Interface (CLI) Battleship variant game written in Python
 * **Key Concepts:** 2D matrices/arrays, random target placement, input validation, and functions.
 * **Note:** High-school end-of-year **group project** (**May 2025**), achieved top marks (**10/10**). Acted as the technical lead for the team.
 
-### 4. 📈 Data Analysis & Quantitative Algorithms (In Progress)
-Upcoming algorithms and scripts focused on algorithmic problem solving, data processing, and quantitative financial analysis.
+### 4. 🧩 LeetCode & Algorithmic Problem Solving (`leetcode`)
+A collection of algorithmic challenges solved in Python, structured following the **NeetCode Roadmap**.
+* **Key Concepts:** Arrays & Hashing, Two Pointers, Time/Space Complexity Optimization ($O(N)$ vs $O(N^2)$), Data Structures (Hash Maps, Sets).
+* **Track My Progress:** Explore the [LeetCode Solutions Folder](./leetcode) for source code and individual problem breakdowns.
 
+### 5. 📈 Data Analysis & Quantitative Algorithms (In Progress)
+Upcoming algorithms and scripts focused on data processing, numerical methods, and quantitative analysis.
 ## Tools & Environment
 * **Language:** Python 3
 * **GUI Framework:** Tkinter (including `ttk`)
